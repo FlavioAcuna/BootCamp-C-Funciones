@@ -1,0 +1,15 @@
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\bin\Debug\net7.0\Funciones.exe
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\bin\Debug\net7.0\Funciones.deps.json
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\bin\Debug\net7.0\Funciones.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\bin\Debug\net7.0\Funciones.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\bin\Debug\net7.0\Funciones.pdb
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\obj\Debug\net7.0\Funciones.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\obj\Debug\net7.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\obj\Debug\net7.0\Funciones.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\obj\Debug\net7.0\Funciones.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\obj\Debug\net7.0\Funciones.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\obj\Debug\net7.0\Funciones.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\obj\Debug\net7.0\refint\Funciones.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\obj\Debug\net7.0\Funciones.pdb
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\obj\Debug\net7.0\Funciones.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\Funciones\obj\Debug\net7.0\ref\Funciones.dll
